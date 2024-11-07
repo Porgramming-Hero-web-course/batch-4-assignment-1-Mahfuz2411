@@ -7,7 +7,7 @@
             sum += arr[i];
         return sum;
     };
-    console.log(sumArray([1, 2, 3]));
+    // console.log(sumArray([1, 2, 5]));
     /*  learned
     const sumArray = (arr: number[]): number => arr.reduce((sum, num) => sum + num, 0);
     ! note: The reduce function takes a callback function and  an initial value
