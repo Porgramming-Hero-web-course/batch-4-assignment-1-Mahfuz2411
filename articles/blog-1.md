@@ -73,8 +73,8 @@ const user: UserWithAddress = {
 
 ## Key Differences
 
-| Feature                 | Union Types (`|`)                        | Intersection Types (`&`)                         |
-|-------------------------|------------------------------------------|--------------------------------------------------|
+| Feature                 | Union Types  (\|)                       | Intersection Types (&)                         |
+| ------------------------- | ------------------------------------------ | -------------------------------------------------- |
 | **Purpose**              | Allows a value to be one of several types | Combines multiple types into one, requiring all properties |
 | **Use Case**             | When a value can be one of many types    | When you need to merge types and have all properties from each |
 | **Resulting Type**       | A value can be any one of the types      | A value must have all properties from all types combined |
