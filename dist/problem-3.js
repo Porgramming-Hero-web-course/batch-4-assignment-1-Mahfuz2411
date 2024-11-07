@@ -19,5 +19,5 @@
         return cnt;
     };
     // console.log(countWordOccurrences("I love typescript TypeScript TypeScripT", "typescript"))
-    console.log(countWordOccurrences("typea", "a"));
+    // console.log(countWordOccurrences("typea", "a"))
 }
