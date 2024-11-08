@@ -1,4 +1,3 @@
-
 # Project Folder Structure
 
 This document outlines the structure and purpose of each folder and file in the project.
@@ -37,4 +36,13 @@ BATCH-4-ASSIGNMENT-1-MAHFUZ2411
 <br>
 
 
+
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16999846&assignment_repo_type=AssignmentRepo)
+
+<a href="https://gitmoji.dev">
+  <img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a>
